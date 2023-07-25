@@ -1,0 +1,24 @@
+.login{
+    padding: 40px;
+    margin: 180px 500px;
+    background-color: rgb(40, 62, 63);
+    width: 380px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px black;
+}
+
+.login input{
+    width: 300px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    border: 0px;
+}
+.login button{
+    padding: 4px 8px;
+}
+.login p{
+    margin: 0px;
+    color: white;
+    margin-top: 5px;
+    text-decoration: underline;
+}

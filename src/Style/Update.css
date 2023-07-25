@@ -1,0 +1,22 @@
+.product4{
+    padding: 20px;
+    background-color: aqua;
+    padding: 40px;
+    margin: 70px 500px;
+    width: 380px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px black;
+  
+  }
+  .product4 input{
+      width: 300px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+      border: 0px;
+  }
+  .product4 button{
+      margin: 0px ;
+      background-color:orange;
+      border: 0px;
+      margin-left: 100px;
+  }

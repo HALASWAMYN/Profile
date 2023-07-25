@@ -1,0 +1,26 @@
+.signUp{
+    padding: 40px;
+    margin: 100px 500px;
+    background-color: rgb(40, 62, 63);
+    width: 380px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px black;
+}
+
+.signUp input{
+    width: 300px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    border: 0px;
+}
+.signUp button{
+    padding: 4px 8px;
+    background-color: green;
+    border: 0px;
+}
+.signUp p{
+    margin: 0px;
+    color: white;
+    margin-top: 5px;
+    text-decoration: underline;
+}

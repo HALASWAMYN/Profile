@@ -1,0 +1,82 @@
+
+
+.list {
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgb(236, 233, 233);
+    margin-left: 40px;
+    margin-Bottom: 20px;
+    color: white;
+
+
+}
+
+.list img {
+    border-radius: 10px;
+}
+.list img:hover {
+    transform: rotateY(160deg);
+    transition: 1s;
+}
+
+.home {
+    background-color: black;
+}
+.list a{
+    text-decoration: none;
+ }
+.bt2 {
+    background-color: black;
+    color: orange;
+    border: 1px solid orange;
+    padding: 6px 8px;
+    border-radius: 8px;
+    margin-left: 20px;
+
+}
+
+.bt3 {
+    background-color:black;
+    color:green;
+    border:1px solid green;
+    padding: 6px 8px;
+    border-radius: 8px;
+    /* margin-left: 20px; */
+
+}
+.bt3:hover {
+    background-color:green;
+    color:white;
+    border:0px;
+    padding: 6px 8px;
+    border-radius: 8px;
+   
+
+}
+.bt2:hover {
+    background-color:orange;
+    color: white;
+    border: 0px;
+    padding: 6px 8px;
+    border-radius: 8px;
+  
+
+}
+.bt4 {
+    background-color:black;
+    color:red;
+    border:1px solid red;
+    padding: 6px 8px;
+    border-radius: 8px;
+    /* margin-left: 20px; */
+
+}
+
+.bt4:hover {
+    background-color:red;
+    color:white;
+    border:0px;
+    padding: 6px 8px;
+    border-radius: 8px;
+   
+
+}

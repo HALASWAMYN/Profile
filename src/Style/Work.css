@@ -1,0 +1,22 @@
+.product2{
+    padding: 40px;
+    background-color: aqua;
+    width: 380px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgb(7, 2, 2);
+    margin: 150px 470px;
+   
+  
+  }
+  .product2 input{
+      width: 300px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+      border: 0px;
+  }
+  .product2 button{
+      margin: 0px ;
+      background-color:orange;
+      border: 0px;
+      margin-left: 100px;
+  }

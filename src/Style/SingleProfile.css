@@ -1,0 +1,16 @@
+.list2{
+   margin: 140px 420px;
+   padding: 20px;
+   background-color: black;
+   color: white;
+   box-shadow:10px 10px 20px rgb(32, 9, 9);
+   border-radius: 10px;
+
+}
+.list2 button{
+    margin: 0px ;
+    background-color:orange;
+    border: 0px;
+    margin-left: 170px;
+    margin-bottom: 5px;
+}
